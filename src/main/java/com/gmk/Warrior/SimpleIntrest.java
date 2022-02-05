@@ -10,6 +10,7 @@ public class SimpleIntrest {
 	
 	public static void main(String[] args)
 	{
+		System.out.println("Hii");
 		SimpleIntrest si = new SimpleIntrest();
 		float f= si.findSimpleIntrest(37000, 2, 7);
 		System.out.println("SImple Intrest"+f);
